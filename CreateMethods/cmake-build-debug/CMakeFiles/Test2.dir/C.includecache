@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Riyad/CLionProjects/CreateMethods/chop.h
+
+C:/Users/Riyad/CLionProjects/CreateMethods/main.c
+stdio.h
+-
+string.h
+-
+chop.h
+C:/Users/Riyad/CLionProjects/CreateMethods/chop.h
+ctype.h
+-
+
